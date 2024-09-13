@@ -1,4 +1,5 @@
 <div align="center">
+xxx
 
 ![ODS stickers](https://github.com/Yorko/mlcourse.ai/blob/main/img/ods_stickers.jpg)
 
